@@ -1,0 +1,18 @@
+CONFIGURAÇÃO VERCEL - AGENDAI
+
+=== BUILD COMMAND ===
+npx expo export --platform web
+
+=== OUTPUT DIRECTORY ===
+dist
+
+=== VARIÁVEIS DE AMBIENTE ===
+
+EXPO_PUBLIC_API_URL
+https://9000-iyyw24xe0ak1zll25r1ny-84cbe2bd.us2.manus.computer
+
+EXPO_PUBLIC_APP_NAME
+AgendAI
+
+=== REPOSITÓRIO GITHUB ===
+https://github.com/444555555444/AgendAI
